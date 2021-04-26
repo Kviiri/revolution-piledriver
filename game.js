@@ -16,7 +16,7 @@ const consts = {
     booster_penetrations: [0.6, 0.8, 0.9, 0.95],
     recoil_preservations: [0.5, 0.6, 0.7, 0.8, 0.95],
     friction_fraction: [0.97, 0.98, 0.99, 0.995],
-    ascension: [1, 1.5, 3, 5, 10]
+    ascension: [1, 1.5, 3, 8, 15]
 }
 
 const graph_consts = {
