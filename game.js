@@ -1388,7 +1388,7 @@ function step(dt) {
         }
         else {
             //tiny air resistance instead
-            piledriver.velocity *= 0.9995;
+            piledriver.velocity *= 0.9997;
         }
     }
     //no going past the bottom
